@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **imresaks@gmail.com**
 
-- 📄 [My CV](https://github.com/imresaks/cv/blob/1d0be5f435294215d8ea737499b077de03d6171e/CV_ImreSaks-1.pdf)
+- 📄 [My CV](https://github.com/imresaks/cv/blob/a7dc8cdf72a7829937b2be4b6e330847e84ce5fd/CV_ImreSaks-5.pdf)
 
 - ⚡ Fun fact **I'm pretty good at Geoguessr**
 
